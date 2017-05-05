@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BuyHatkeTest</string>
+
+    <string name="not_checked">not_checked</string>
+    <string name="checked">checked</string>
+
+
+    <!-- toast messages -->
+    <string name="network_error">No internet connection</string>
+
+
+</resources>

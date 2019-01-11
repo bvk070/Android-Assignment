@@ -45,7 +45,6 @@
                 android:resource="@xml/serviceconfig" />
         </service>
 
-
     </application>
 
 </manifest>
